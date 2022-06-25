@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
-/* font-family: 'Fraunces', serif;
-font-family: 'Montserrat', sans-serif; */
-
-
 :root{
     --dark-cyan : hsl(158, 36%, 37%);
     --cream : hsl(30, 38%, 92%) ;
@@ -23,6 +19,7 @@ img {
 body {
     background-color: var(--cream);
     font-family: 'Montserrat', sans-serif;
+    color: var(--very-dark-blue);
 }
 main {
     max-width: 1440px;
