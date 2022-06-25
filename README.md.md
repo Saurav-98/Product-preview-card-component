@@ -6,9 +6,8 @@ Please checkout the project and help me with your valueable feedback.
 
 Solution ScreenShot
 
-![](./Solution-screenshot/Screen%20Shot%202022-06-26%20at%2003.45.11.png)
 ![](./Solution-screenshot/Screen%20Shot%202022-06-26%20at%2003.47.24.png)
-
+![](./Solution-screenshot/Screenshot%202022-06-26%20at%2003-43-07%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 Code ScreenShot - ![](./Solution-screenshot/code-html.png)
 ![](./Solution-screenshot/code-css.png)
 
